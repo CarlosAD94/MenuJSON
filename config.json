@@ -1,0 +1,8 @@
+{
+	"title": "Demo",
+	"type": "MENU",
+	"subtitle": "Select an option",
+	"options": [
+		{ "title": "Execute a demo command", "type": "COMMAND", "command": "echo 'Hello World'", "wait": true }
+	]
+}
